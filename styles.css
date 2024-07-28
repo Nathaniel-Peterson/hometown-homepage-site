@@ -6,3 +6,12 @@
   font-variation-settings:
     "wdth" 100;
 }
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+}
